@@ -1,4 +1,4 @@
-- I'm Emilios</br>
+Emilios</br>
 
 ![](https://www.codewars.com/users/EmilAnt/badges/small)\
 </br> 
