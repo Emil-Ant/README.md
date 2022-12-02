@@ -1,4 +1,4 @@
-Emilios</br>
+:milky_way: Emilios</br>
 
 ![](https://www.codewars.com/users/EmilAnt/badges/small)\
 </br> 
