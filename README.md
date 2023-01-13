@@ -6,7 +6,7 @@
 
 Currently: Going through (when I have time!) The Odin Project Ruby on Rails track and Post Grad Applied Computing student at University College Cork 
 
-Latest project: https://emil-ant.github.io/Calculator/
+Latest project: https://emil-ant.github.io/About-page
 
 
 
